@@ -27,7 +27,7 @@
                         <ActualChangeDate>2021-12-19</ActualChangeDate>
                         <MeterReadTypeCode>RR</MeterReadTypeCode>
                         <NMIStandingData xsi:type="ase:ElectricityStandingData">
-                            <NMI checksum="7">6407527335</NMI>
+                            <NMI checksum="7">6111111111</NMI>
                             <RoleAssignments>
                                 <RoleAssignment>
                                     <Party>OVOKALU</Party>
@@ -52,7 +52,7 @@
                     <ToDate>9999-12-31</ToDate>
                     <AsAtDate>2021-12-21</AsAtDate>
                     <LastSequenceNumber>0</LastSequenceNumber>
-                    <NMI>6407527335</NMI>
+                    <NMI>6111111111</NMI>
                     <Participant>OVOKALU</Participant>
                     <Role>FRMP</Role>
                     <ReportType>Detailed</ReportType>
@@ -67,7 +67,7 @@
                             <RowStatus>A</RowStatus>
                             <FromDate>2019-08-01T00:00:00+10:00</FromDate>
                             <ToDate>9999-12-31T00:00:00+10:00</ToDate>
-                            <NMI>6407527335</NMI>
+                            <NMI>6111111111</NMI>
                             <JurisdictionCode>VIC</JurisdictionCode>
                             <NMIClassificationCode>SMALL</NMIClassificationCode>
                             <TransmissionNodeIdentifier>VTBT</TransmissionNodeIdentifier>
@@ -80,31 +80,31 @@
                                     </FlatOrUnit>
                                     <FloorOrLevel>
                                         <FloorOrLevelType>FL</FloorOrLevelType>
-                                        <FloorOrLevelNumber>31/32</FloorOrLevelNumber>
+                                        <FloorOrLevelNumber>1/2</FloorOrLevelNumber>
                                     </FloorOrLevel>
-                                    <BuildingOrPropertyName>Golden Shores</BuildingOrPropertyName>
+                                    <BuildingOrPropertyName>Building 1</BuildingOrPropertyName>
                                     <BuildingOrPropertyName>What A View</BuildingOrPropertyName>
-                                    <LocationDescriptor>#DO8# OFF S' D01ALEX GDNS R/O</LocationDescriptor>
+                                    <LocationDescriptor>#TEST Desc</LocationDescriptor>
                                     <House>
-                                        <HouseNumber>108</HouseNumber>
+                                        <HouseNumber>1</HouseNumber>
                                         <HouseNumberSuffix>A</HouseNumberSuffix>
                                     </House>
                                     <House>
-                                        <HouseNumber>109</HouseNumber>
+                                        <HouseNumber>2</HouseNumber>
                                         <HouseNumberSuffix>Z</HouseNumberSuffix>
                                     </House>
                                     <Lot>
-                                        <LotNumber>13-9</LotNumber>
+                                        <LotNumber>1-2</LotNumber>
                                     </Lot>
                                     <Street>
-                                        <StreetName>HUMPHRIES</StreetName>
+                                        <StreetName>EXAMPPLE</StreetName>
                                         <StreetType>RD</StreetType>
                                     </Street>
                                 </StructuredAddress>
-                                <SuburbOrPlaceOrLocality>MOUNT ELIZA</SuburbOrPlaceOrLocality>
+                                <SuburbOrPlaceOrLocality>AUS</SuburbOrPlaceOrLocality>
                                 <StateOrTerritory>VIC</StateOrTerritory>
-                                <PostCode>3930</PostCode>
-                                <DeliveryPointIdentifier>96249652</DeliveryPointIdentifier>
+                                <PostCode>1234</PostCode>
+                                <DeliveryPointIdentifier>12345678</DeliveryPointIdentifier>
                             </Address>
                             <Aggregate>Yes</Aggregate>
                             <Status>A</Status>
@@ -120,7 +120,7 @@
                             <RowStatus>A</RowStatus>
                             <FromDate>2021-12-19T00:00:00+10:00</FromDate>
                             <ToDate>9999-12-31T00:00:00+10:00</ToDate>
-                            <NMI>6407527335</NMI>
+                            <NMI>6111111111</NMI>
                             <Party>OVOKALU</Party>
                             <Role>FRMP</Role>
                         </Row>
@@ -132,7 +132,7 @@
                             <RowStatus>A</RowStatus>
                             <FromDate>2002-01-04T00:00:00+10:00</FromDate>
                             <ToDate>9999-12-31T00:00:00+10:00</ToDate>
-                            <NMI>6407527335</NMI>
+                            <NMI>6111111111</NMI>
                             <Party>UNITED</Party>
                             <Role>LNSP</Role>
                         </Row>
@@ -144,7 +144,7 @@
                             <RowStatus>A</RowStatus>
                             <FromDate>2002-01-04T00:00:00+10:00</FromDate>
                             <ToDate>9999-12-31T00:00:00+10:00</ToDate>
-                            <NMI>6407527335</NMI>
+                            <NMI>6111111111</NMI>
                             <Party>PULSE</Party>
                             <Role>LR</Role>
                         </Row>
@@ -156,7 +156,7 @@
                             <RowStatus>A</RowStatus>
                             <FromDate>2013-11-19T00:00:00+10:00</FromDate>
                             <ToDate>9999-12-31T00:00:00+10:00</ToDate>
-                            <NMI>6407527335</NMI>
+                            <NMI>6111111111</NMI>
                             <Party>UEDMDP</Party>
                             <Role>MDP</Role>
                         </Row>
@@ -168,7 +168,7 @@
                             <RowStatus>A</RowStatus>
                             <FromDate>2013-11-19T00:00:00+10:00</FromDate>
                             <ToDate>9999-12-31T00:00:00+10:00</ToDate>
-                            <NMI>6407527335</NMI>
+                            <NMI>6111111111</NMI>
                             <Party>UNITEDMP</Party>
                             <Role>MPB</Role>
                         </Row>
@@ -180,7 +180,7 @@
                             <RowStatus>A</RowStatus>
                             <FromDate>2013-11-19T00:00:00+10:00</FromDate>
                             <ToDate>9999-12-31T00:00:00+10:00</ToDate>
-                            <NMI>6407527335</NMI>
+                            <NMI>6111111111</NMI>
                             <Party>UEDMDP</Party>
                             <Role>MPC</Role>
                         </Row>
@@ -192,7 +192,7 @@
                             <RowStatus>A</RowStatus>
                             <FromDate>2002-01-04T00:00:00+10:00</FromDate>
                             <ToDate>9999-12-31T00:00:00+10:00</ToDate>
-                            <NMI>6407527335</NMI>
+                            <NMI>6111111111</NMI>
                             <Party>PULSE</Party>
                             <Role>ROLR</Role>
                         </Row>
@@ -204,7 +204,7 @@
                             <RowStatus>A</RowStatus>
                             <FromDate>2021-01-14T00:00:00+10:00</FromDate>
                             <ToDate>9999-12-31T00:00:00+10:00</ToDate>
-                            <NMI>6407527335</NMI>
+                            <NMI>6111111111</NMI>
                             <Party>UNITED</Party>
                             <Role>RP</Role>
                         </Row>
@@ -218,7 +218,7 @@
                             <RowStatus>A</RowStatus>
                             <FromDate>2013-11-19T00:00:00+10:00</FromDate>
                             <ToDate>9999-12-31T00:00:00+10:00</ToDate>
-                            <NMI>6407527335</NMI>
+                            <NMI>6111111111</NMI>
                             <Suffix>11</Suffix>
                             <ProfileName>NSLP</ProfileName>
                             <AveragedDailyLoad>12</AveragedDailyLoad>
@@ -233,7 +233,7 @@
                             <RowStatus>A</RowStatus>
                             <FromDate>2013-11-19T00:00:00+10:00</FromDate>
                             <ToDate>9999-12-31T00:00:00+10:00</ToDate>
-                            <NMI>6407527335</NMI>
+                            <NMI>6111111111</NMI>
                             <Suffix>42</Suffix>
                             <ProfileName>NSLP</ProfileName>
                             <AveragedDailyLoad>4</AveragedDailyLoad>
@@ -248,7 +248,7 @@
                             <RowStatus>A</RowStatus>
                             <FromDate>2017-12-24T00:00:00+10:00</FromDate>
                             <ToDate>9999-12-31T00:00:00+10:00</ToDate>
-                            <NMI>6407527335</NMI>
+                            <NMI>6111111111</NMI>
                             <Suffix>N1</Suffix>
                             <ProfileName>NOPROF</ProfileName>
                             <AveragedDailyLoad>16</AveragedDailyLoad>
@@ -265,7 +265,7 @@
                             <RowStatus>A</RowStatus>
                             <FromDate>2013-11-19T00:00:00+10:00</FromDate>
                             <ToDate>9999-12-31T00:00:00+10:00</ToDate>
-                            <NMI>6407527335</NMI>
+                            <NMI>6111111111</NMI>
                             <SerialNumber>0252992</SerialNumber>
                             <NextScheduledReadDate>2014-02-17</NextScheduledReadDate>
                             <Location>POLE</Location>
@@ -285,7 +285,7 @@
                             <RowStatus>A</RowStatus>
                             <FromDate>2013-11-19T00:00:00+10:00</FromDate>
                             <ToDate>9999-12-31T00:00:00+10:00</ToDate>
-                            <NMI>6407527335</NMI>
+                            <NMI>6111111111</NMI>
                             <SerialNumber>0253002</SerialNumber>
                             <NextScheduledReadDate>2014-02-17</NextScheduledReadDate>
                             <Location>POLE</Location>
@@ -305,7 +305,7 @@
                             <RowStatus>A</RowStatus>
                             <FromDate>2021-05-03T00:00:00+10:00</FromDate>
                             <ToDate>9999-12-31T00:00:00+10:00</ToDate>
-                            <NMI>6407527335</NMI>
+                            <NMI>6111111111</NMI>
                             <SerialNumber>1155493</SerialNumber>
                             <NextScheduledReadDate>2021-08-18</NextScheduledReadDate>
                             <InstallationTypeCode>MRIM</InstallationTypeCode>
@@ -324,7 +324,7 @@
                             <RowStatus>A</RowStatus>
                             <FromDate>2013-11-19T00:00:00+10:00</FromDate>
                             <ToDate>9999-12-31T00:00:00+10:00</ToDate>
-                            <NMI>6407527335</NMI>
+                            <NMI>6111111111</NMI>
                             <SerialNumber>0252992</SerialNumber>
                             <RegisterID>1</RegisterID>
                             <NetworkTariffCode>LVS1R</NetworkTariffCode>
@@ -344,7 +344,7 @@
                             <RowStatus>A</RowStatus>
                             <FromDate>2013-11-19T00:00:00+10:00</FromDate>
                             <ToDate>9999-12-31T00:00:00+10:00</ToDate>
-                            <NMI>6407527335</NMI>
+                            <NMI>6111111111</NMI>
                             <SerialNumber>0253002</SerialNumber>
                             <RegisterID>1</RegisterID>
                             <NetworkTariffCode>LVDED</NetworkTariffCode>
@@ -364,7 +364,7 @@
                             <RowStatus>A</RowStatus>
                             <FromDate>2021-05-03T00:00:00+10:00</FromDate>
                             <ToDate>9999-12-31T00:00:00+10:00</ToDate>
-                            <NMI>6407527335</NMI>
+                            <NMI>6111111111</NMI>
                             <SerialNumber>1155493</SerialNumber>
                             <RegisterID>B1</RegisterID>
                             <NetworkTariffCode>LVS1R</NetworkTariffCode>
@@ -385,7 +385,7 @@
                             <RowStatus>A</RowStatus>
                             <FromDate>2021-05-03T00:00:00+10:00</FromDate>
                             <ToDate>9999-12-31T00:00:00+10:00</ToDate>
-                            <NMI>6407527335</NMI>
+                            <NMI>6111111111</NMI>
                             <SerialNumber>1155493</SerialNumber>
                             <RegisterID>E1</RegisterID>
                             <NetworkTariffCode>LVS1R</NetworkTariffCode>
