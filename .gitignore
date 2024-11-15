@@ -1,0 +1,6 @@
+cache
+node_modules
+xmlns
+output/*
+
+!output/README.md
